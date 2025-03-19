@@ -32,13 +32,13 @@ This project is a Calculator built using React and Vite. The calculator defaults
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ViniciusANascimento/calculator-react>
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd <project-directory>
+cd <calculator-react>
 ```
 
 3. Install dependencies:
